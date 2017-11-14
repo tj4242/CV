@@ -43,6 +43,7 @@ var keys = {
 				keys.left = status;			
 				break;
 			case 38://UP ARROW
+			case 32://SPACE
 				keys.up = status;
 				break;
 			default:
